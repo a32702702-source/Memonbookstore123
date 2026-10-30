@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://a32702702-source.github.io/Memonbookstore123/sitemap.xml
